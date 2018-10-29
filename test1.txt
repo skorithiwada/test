@@ -1,10 +1,1 @@
- Volume in drive C is WINDOWS
- Volume Serial Number is 463C-F684
-
- Directory of C:\Users\shashi\OneDrive - Summit Technology Consulting Group, Llc\Documents\myprojects
-
-10/29/2018  05:09 PM    <DIR>          .
-10/29/2018  05:09 PM    <DIR>          ..
-10/29/2018  05:09 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  301,811,814,400 bytes free
+change
